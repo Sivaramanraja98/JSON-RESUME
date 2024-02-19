@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Sivaraman Raja S",
+    "email": "sivaram1194@gmail.com",
+    "phone": "+91 9791928453",
+    "location": {
+      "address": "Tenkasi, 627811 (IN)"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/Sivaramanraja98"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sivaraman2298"
+      },
+      {
+        "network": "Portfolio",
+        "url": "https://sivaramanportfolio.netlify.app"
+      }
+    ]
+  },
+  "summary": "Driven and enthusiastic Full-Stack Web Developer with a background in engineering, equipped with proficiency in front-end and back-end technologies, frameworks, and databases. Completed Full Stack Development Course with MERN Stack Development from GUVI, Chennai. Experienced in project management, problem-solving, and teamwork. Eager to contribute effectively towards organizational goals while continuously honing skills in the dynamic landscape of web development.",
+  "certifications": [
+    {
+      "title": "Full Stack Development Course with MERN Stack Development",
+      "authority": "GUVI",
+      "location": "Chennai",
+      "startDate": "March 2023",
+      "endDate": "May 2023"
+    }
+  ],
+  "experience": [
+    {
+      "company": "LGB FORGE LTD.",
+      "position": "Marketing Assistant",
+      "location": "Coimbatore, Tamil Nadu",
+      "startDate": "October 2021",
+      "endDate": "November 2022",
+      "highlights": [
+        "Conducted RFQ follow-ups, price quoting, and negotiations for new products.",
+        "Assisted in cost reduction initiatives and monitored sales activities.",
+        "Collaborated with production teams to meet customer demands.",
+        "Regular customer follow-up on supply chain activities.",
+        "Ensured timely collection of payments."
+      ]
+    },
+    {
+      "company": "Microprecision",
+      "position": "Graduate Engineer",
+      "location": "Chennai, Tamil Nadu",
+      "startDate": "September 2019",
+      "endDate": "September 2021",
+      "highlights": [
+        "Managed design, manufacturing, and inspection of components based on GD&T.",
+        "Oversaw process planning, vendor selection, and production planning.",
+        "Streamlined component assembly and maintained material specifications."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Karunya Institute of Technology and Sciences",
+      "area": "Mechanical Engineering",
+      "location": "Coimbatore, Tamil Nadu",
+      "studyType": "Bachelor",
+      "startDate": "April 2019",
+      "endDate": "April 2019"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Skillful"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Beginner"
+    },
+    {
+      "name": "CSS",
+      "level": "Skillful"
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Skillful"
+    },
+    {
+      "name": "React JS",
+      "level": "Beginner"
+    },
+    {
+      "name": "MongoDB",
+      "level": "Beginner"
+    },
+    {
+      "name": "Node JS",
+      "level": "Beginner"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Native speaker"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Chat Application",
+      "description": "Application allowing real-time communication between users via chat messages.",
+      "tools": ["React", "Node JS", "MongoDB", "Socket.io", "Bootstrap"],
+      "link": "https://chatappmern2298.netlify.app"
+    },
+    {
+      "name": "CRM Application",
+      "description": "Full-stack application for tracking customer relationships and managing customer details.",
+      "tools": ["React", "Node JS", "MongoDB", "Socket.io", "Bootstrap", "JWT", "Node Mailer"],
+      "link": "https://amazing-mousse-4d5cd0.netlify.app"
+    },
+    {
+      "name": "Log In Application",
+      "description": "Application for user registration, login, and password management with email verification.",
+      "tools": ["React Js", "Node Js", "JWT", "NodeMailer", "Express", "Bcrypt"],
+      "link": "https://myauthapp.netlify.app"
+    },
+    {
+      "name": "Gmail Clone Application",
+      "description": "Application allowing users to send and receive emails with registration and login features.",
+      "tools": ["React Js", "Node JS", "Material UI", "JWT"],
+      "link": "https://gmailcloneproject.netlify.app"
+    }
+  ]
+}
